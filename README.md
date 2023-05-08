@@ -16,7 +16,3 @@ English  🇺🇸
 - 📫 How to reach me: [Gmail](alissonfgc01@gmail.com), [LinkedIn](https://www.linkedin.com/in/alisson-fernandes-920b111aa), [WhatsApp](https://wa.me/5561981145073).
 - 💼 My portfolio: [Link](https://alissonfgc.xyz/).
 
-<!---
-alissonfgc/alissonfgc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
