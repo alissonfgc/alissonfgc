@@ -30,7 +30,7 @@ English  🇺🇸
 ---
 - ##👋 Hi, I’m **@alissonfgc**
 - 👀 I’m interested in Full Stack Python Development.
-- 🌱 I’m currently learning JavaScript and python.
+- 🌱 I’m currently learning python and JavaScript.
 - 💼 [My portfolio](https://alissonfgc.xyz/).
 
 <a href="#">
