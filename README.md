@@ -20,7 +20,12 @@
   <a href="#">
     <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonfgc&langs_count=6&layout=compact&theme=vue-dark&bg_color=404040&border_radius=15&border_color=2ba3d6"/>
   </a>
-</div> 
+</div>
+
+
+ <br/>
+ <br/>
+ 
  
  Português 🇧🇷 
 ---
@@ -36,7 +41,8 @@ English  🇺🇸
 - 🌱 I’m currently learning python and JavaScript.
 - 💼 [My portfolio](https://alissonfgc.xyz/).
 
-<br>
+<br/>
+<br/>
 <h2>Skills</h2>
 
 <p align="center">
