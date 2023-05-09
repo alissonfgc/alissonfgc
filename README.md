@@ -34,7 +34,7 @@ English  🇺🇸
 
 <h2>Skills</h2>
 
-<p align="center">
+<div align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=git,vscode,react,html,css,js,ts,bootstrap,materialui,androidstudio,arduino,bash,linux" />
   </a>
@@ -43,7 +43,7 @@ English  🇺🇸
   <a href="#">
     <img src="https://skillicons.dev/icons?i=python,django,mysql,sqlite,c,cpp,cs,java,github,wordpress,ae,ps,pr" />
   </a>
-</p>
+</div>
 
 <br/>
 
