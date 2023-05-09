@@ -55,11 +55,11 @@ English  🇺🇸
 <h2>Social Networks</h2>
 
 <div align="center">
- <a href="#">
+ <a href="https://www.linkedin.com/in/alissonfgc/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
  </a>
- <a href="#">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
+ <a href="https://www.instagram.com/alissonfgc/">
+  <img src="https://skillicons.dev/icons?i=instagram" />
  </a>
  <a href="#">
   <img src="https://skillicons.dev/icons?i=linkedin" />
