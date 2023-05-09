@@ -2,7 +2,7 @@
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&color=2ba3d6&section=header"/>
 </a>
 
-<div align="left" >
+<div align="center" >
  <h1>
   <img width="32" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
   <img width="50%" src="https://readme-typing-svg.herokuapp.com/?color=2ba3d6&size=40&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Alisson;I'm+a+Full+Stack+Developer;I'm+from+Brazil"/>
