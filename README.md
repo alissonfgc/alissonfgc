@@ -52,7 +52,7 @@ English  🇺🇸
 <br/>
 <br/>
 
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Alisson;I'm+from+Brazil;I'm+a+Full+Stack+Developer;Be+Welcome!)
 
 
 
