@@ -58,19 +58,6 @@ English  🇺🇸
   <a href = "mailto:alissonfgcdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
 
-
-<div align="center">
- <a href="https://www.linkedin.com/in/alissonfgc/">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
- </a>
- <a href="">
-  <img src="https://skillicons.dev/icons?i=instagram" />
- </a>
- <a href="#">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
- </a>
-</div>
-
 <br/>
 <br/>
 
