@@ -9,8 +9,6 @@
  </h1>
 </div>
 
-<hr/>
-
  <br/>
  <br/>
  
@@ -70,6 +68,19 @@ English  🇺🇸
 <br/>
 ---
 <br/>
+
+<br/>
+<br/>
+
+<a href="#">
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&color=2ba3d6&section=footer"/>
+</a>
+
+<hr/>
+
+<br/>
+<br/>
+
 <div align="center">
   <br>
   <a href="#">
@@ -79,14 +90,6 @@ English  🇺🇸
     <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonfgc&langs_count=6&layout=compact&theme=tokyonight&bg_color=404040&border_radius=15&border_color=2ba3d6"/>
   </a>
 </div>
-<br/>
-<br/>
-
-<a href="#">
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&color=2ba3d6&section=footer"/>
-</a>
-
-
 
 
 
