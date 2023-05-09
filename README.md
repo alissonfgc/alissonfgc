@@ -1,12 +1,7 @@
 <div align="center" >
- 
  ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Mostafa+Fazli;MosFazli;a+Software+Developer;UI%2FUX+Designer)](https://git.io/typing-svg)
- 
- </div>
- 
- 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Mostafa+Fazli;MosFazli;a+Software+Developer;UI%2FUX+Designer)](https://git.io/typing-svg)
+</div>
  
  Português 🇧🇷 
 ---
@@ -23,6 +18,26 @@ English  🇺🇸
 - 🌱 I’m currently learning JavaScript and python.
 - 📫 How to reach me: [Gmail](alissonfgc01@gmail.com), [LinkedIn](https://www.linkedin.com/in/alisson-fernandes-920b111aa), [WhatsApp](https://wa.me/5561981145073).
 - 💼 My portfolio: [Link](https://alissonfgc.xyz/).
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
