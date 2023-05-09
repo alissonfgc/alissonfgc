@@ -9,7 +9,7 @@
  </h1>
 </div>
 
-
+<hr/>
 
  <br/>
  <br/>
@@ -66,19 +66,6 @@ English  🇺🇸
  </a>
 </div>
 
-<div align="center">
-[![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Instagram][3.2]][3] [![Telegram][4.2]][4]
-
-[1.2]: https://s4.uupload.ir/files/twitter_prkb.png
-[2.2]: https://s4.uupload.ir/files/linkedin_amwn.png
-[3.2]: https://s4.uupload.ir/files/instagram_6djz.png
-[4.2]: https://s4.uupload.ir/files/telegram_q47u.png
-
-[1]: https://twitter.com/MosFazli
-[2]: https://www.linkedin.com/in/alissonfgc/
-[3]: https://www.instagram.com/alissonfgc
-[4]: https://telegram.me/MosFazli
-</div>
 <br/>
 <br/>
 ---
