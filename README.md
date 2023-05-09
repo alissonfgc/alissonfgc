@@ -36,6 +36,22 @@ English  🇺🇸
 - 🌱 I’m currently learning python and JavaScript.
 - 💼 [My portfolio](https://alissonfgc.xyz/).
 
+<br>
+<h2>Skills</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,react,html,css,js,ts,bootstrap,materialui,androidstudio,arduino,bash,linux" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,mysql,sqlite,c,cpp,cs,java,github,wordpress,ae,ps,pr" />
+  </a>
+</p>
+
+
+
 <a href="#">
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&color=2ba3d6&section=footer"/>
 </a>
