@@ -38,7 +38,7 @@ English  🇺🇸
 - 💼 My portfolio: [Link](https://alissonfgc.xyz/).
 
 <a href="#">
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&color=2ba3d6&section=footer"/>
 </a>
 
 
