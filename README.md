@@ -15,7 +15,7 @@
 <div align="center">
   <br>
   <a href="#">
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alissonfgc&show_icons=true&theme=vue-dark&bg_color=404040&border_radius=15&border_color=2ba3d6&include_all_commits=true&count_private=true"/>
+    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alissonfgc&show_icons=true&theme=dracula&bg_color=404040&border_radius=15&border_color=2ba3d6&include_all_commits=true&count_private=true"/>
   </a>
   <a href="#">
     <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonfgc&langs_count=6&layout=compact&theme=vue-dark&bg_color=404040&border_radius=15&border_color=2ba3d6"/>
@@ -58,7 +58,6 @@ English  🇺🇸
 </p>
 
 <br/>
-<br/>
 
 <img align='right' height='160' style="margin-right:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
 
@@ -83,6 +82,25 @@ English  🇺🇸
 <a href="#">
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&color=2ba3d6&section=footer"/>
 </a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <br/>
 <br/>
 <br/>
