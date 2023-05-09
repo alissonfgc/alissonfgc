@@ -185,40 +185,6 @@ English  🇺🇸
 <br/>
 
 
-
-
-
-
-
-
-
-
-
-
-<div align="center" >
- 
- ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Mostafa+Fazli;MosFazli;a+Software+Developer;UI%2FUX+Designer)](https://git.io/typing-svg)
- 
- </div>
- 
- <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-
- 
-
 ### :man_technologist: I'm Mostafa Fazli and I'm interested in programming and graphic design
 Currently I'm learning and practicing courses and algorithms,
 
@@ -253,62 +219,6 @@ Currently I'm learning and practicing courses and algorithms,
 [4]: https://telegram.me/MosFazli
 
 
-<br>
-<br>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-<img align='left' height='160' style="margin-left:20px" src='assets/programmer.gif' alt='Skills'>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-<br>
-<h2>Skills</h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,react,html,css,js,ts,bootstrap,materialui,androidstudio,arduino,bash,linux" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,mysql,sqlite,c,cpp,cs,java,github,wordpress,ae,ps,pr" />
-  </a>
-</p>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 
