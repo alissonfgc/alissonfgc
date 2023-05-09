@@ -19,7 +19,10 @@ English  🇺🇸
 - 📫 How to reach me: [Gmail](alissonfgc01@gmail.com), [LinkedIn](https://www.linkedin.com/in/alisson-fernandes-920b111aa), [WhatsApp](https://wa.me/5561981145073).
 - 💼 My portfolio: [Link](https://alissonfgc.xyz/).
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
+<a href="#">
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
+</a>
+
 
 
 
@@ -238,6 +241,6 @@ Currently I'm learning and practicing courses and algorithms,
 </div>
 
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
+
 </a>
 
