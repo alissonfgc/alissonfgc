@@ -1,9 +1,24 @@
+<div align="center">
+	<br/>
+	<a href="#">
+		<img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alissonfgc&show_icons=true&theme=vue-dark&bg_color=0d1117 border_radius=15&border_color=0d1117&include_all_commits=true&count_private=true" />
+	</a>
+	<a href="#">
+		<img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonfgc&langs_count=6&layout=compact&theme=vue-dark&bg_color=0d1117&border_radius=15&border_color=0d1117" />
+	</a>
+</div> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  Português 🇧🇷 
 ---
 - 👋 Olá, Eu sou **@alissonfgc**
 - 👀 Estou interessado em Desenvolvimento Full Stack Python.
 - 🌱 Atualmente eu estou estudando Python e JavaScript.
-- 💞️ Eu procuro colaborar com projetos pessoais.
 - 📫 Como me encontrar: [Gmail](alissonfgc01@gmail.com), [LinkedIn](https://www.linkedin.com/in/alisson-fernandes-920b111aa), [WhatsApp](https://wa.me/5561981145073).
 - 💼 Meu portifólio: [Link](https://alissonfgc.xyz/).
 
@@ -12,7 +27,6 @@ English  🇺🇸
 - 👋 Hi, I’m **@alissonfgc**
 - 👀 I’m interested in Full Stack Python Development.
 - 🌱 I’m currently learning JavaScript and python.
-- 💞️ I’m looking to collaborate on personal projects.
 - 📫 How to reach me: [Gmail](alissonfgc01@gmail.com), [LinkedIn](https://www.linkedin.com/in/alisson-fernandes-920b111aa), [WhatsApp](https://wa.me/5561981145073).
 - 💼 My portfolio: [Link](https://alissonfgc.xyz/).
 
@@ -223,4 +237,3 @@ Currently I'm learning and practicing courses and algorithms,
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
 </a>
 
-![Snake animation](https://github.com/JeffersonRPM/JeffersonRPM/blob/output/github-contribution-grid-snake.svg)
