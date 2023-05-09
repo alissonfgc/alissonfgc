@@ -50,17 +50,20 @@ English  🇺🇸
 <img align='right' height='160' style="margin-right:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
 
 <br/>
+<br/>
+
 <h2>Social Networks</h2>
 
 <div align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
-<p align="center">
-  <a href="#">
-    <img src="https://s4.uupload.ir/files/linkedin_amwn.png" />
-  </a>
+ <a href="#">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+ </a>
+ <a href="#">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+ </a>
+ <a href="#">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+ </a>
 </div>
 
 
