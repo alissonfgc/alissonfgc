@@ -60,8 +60,8 @@ English  🇺🇸
 [4.2]: https://s4.uupload.ir/files/telegram_q47u.png
 
 [1]: https://twitter.com/MosFazli
-[2]: https://www.linkedin.com/in/mosfazli/
-[3]: https://www.instagram.com/mosfazli
+[2]: https://www.linkedin.com/in/alissonfgc/
+[3]: https://www.instagram.com/alissonfgc
 [4]: https://telegram.me/MosFazli
 
 <br/>
