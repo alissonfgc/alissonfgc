@@ -44,7 +44,7 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=django,react,ts" />
+    <img src="https://skillicons.dev/icons?i=python,django,react,ts" />
   </a>
 </div>
 <div align="center">
