@@ -5,6 +5,7 @@
 <div align="center" >
  <h1>
   Olá, Eu sou o Alisson
+  Hi, I’m Alisson
   <img width="32" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
 
  </h1>
@@ -184,23 +185,6 @@ English  🇺🇸
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-### :man_technologist: I'm Mostafa Fazli and I'm interested in programming and graphic design
-Currently I'm learning and practicing courses and algorithms,
 
 <br/>
 <br/>
