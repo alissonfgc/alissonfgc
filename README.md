@@ -6,36 +6,12 @@
  <h1>
   Hi, I’m Alisson
   <img width="32" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
-
  </h1>
 </div>
 
 <br/>
 <br/>
- 
-<div align="center" width="100%">
- <div width="50%" align="center" >
-  <p>
-    Português 🇧🇷 
----
-- 👀 Estou interessado em Desenvolvimento Full Stack Python.
-- 🌱 Atualmente eu estou estudando Python e JavaScript.
-- 💼 [Meu portifólio](https://alissonfgc.xyz/).
-  </p>
- </div>
- <div width="50%" align="center">
-    <p>
-English  🇺🇸
----
-- ##👋 Hi, I’m **@alissonfgc**
-- 👀 I’m interested in Full Stack Python Development.
-- 🌱 I’m currently learning python and JavaScript.
-- 💼 [My portfolio](https://alissonfgc.xyz/).
-  </p>
- </div>
-</div>
- 
- 
+
  Português 🇧🇷 
 ---
 - 👀 Estou interessado em Desenvolvimento Full Stack Python.
