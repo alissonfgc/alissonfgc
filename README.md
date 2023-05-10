@@ -44,15 +44,15 @@
 
 <div align="center">
   <a href="#">
+    <img src="https://skillicons.dev/icons?i=django,react,ts" />
+  </a>
+</div>
+<div align="center">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=arduino,androidstudio,ae,linux" />
   </a>
 </div>
 
-<div align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=django,react,ts" />
-  </a>
-</div>
 <details close="true">
     <summary><b>:gear: &nbsp;Git statistics</b></summary>
  <br/>
