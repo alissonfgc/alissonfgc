@@ -36,7 +36,7 @@
 </div>
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=python,django,mysql,sqlite,c,cpp,cs,java,github,wordpress,ae,ps,pr" />
+    <img src="https://skillicons.dev/icons?i=python,django,mysql,c,cpp,cs,github,wordpress,ae" />
   </a>
 </div>
 <details close="true">
