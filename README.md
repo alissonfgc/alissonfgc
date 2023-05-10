@@ -2,15 +2,18 @@
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&color=2ba3d6&section=header"/>
 </a>
 
-<div align="center" >
- <h1>
-  Hi, I’m Alisson
-  <img width="32" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
- </h1>
+<div align="center">
+    <h1>
+        Hi, I’m Alisson
+        <img width="32" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
+    </h1>
 </div>
 
 <div style="display: inline_block">
-    <img align="left" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <h2>Português 🇧🇷</h2>
+    <p>
+        👀 Estou interessado em Desenvolvimento Full Stack Python; 🌱 Atualmente eu estou estudando Python e JavaScript; 💼 [Meu portifólio](https://alissonfgc.xyz/).
+    </p>
     <img align="right" alt="Aliss-pic" style="border-radius:50px;" height="150" src="https://cdn.discordapp.com/attachments/1094744443355148360/1105655868936167424/alissonfgc_art.png">
 </div>
 
