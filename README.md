@@ -41,7 +41,6 @@
 </div>
 
 <h2>Learning</h2>
-,arduino,androidstudio,wordpress,
 
 <div align="center">
   <a href="#">
@@ -50,7 +49,7 @@
 </div>
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=php,mysql,git,github,python" />
+    <img src="https://skillicons.dev/icons?i=arduino,androidstudio" />
   </a>
 </div>
 
