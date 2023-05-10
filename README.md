@@ -53,6 +53,8 @@ English  🇺🇸
   </a>
 </div>
 
+<hr/>
+
 <br/>
 
 <img align='right' height='160' style="margin-right:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
@@ -73,7 +75,6 @@ English  🇺🇸
 <a href="#">
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&color=2ba3d6&section=footer"/>
 </a>
-<hr/>
 
 
 
