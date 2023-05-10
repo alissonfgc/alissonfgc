@@ -14,12 +14,12 @@
 </div>
 
 
-- English  🇺🇸
+- ##English  🇺🇸
 - 👀 I’m interested in Full Stack Python Development;
 - 🌱 🌱 I’m currently learning python and JavaScript;
 - 💼 [My portfolio](https://alissonfgc.xyz/).
 
-- Português 🇧🇷
+- ##Português 🇧🇷
 - 👀 Estou interessado em Desenvolvimento Full Stack Python;
 - 🌱 Atualmente eu estou estudando Python e JavaScript;
 - 💼 [Meu portifólio](https://alissonfgc.xyz/)
