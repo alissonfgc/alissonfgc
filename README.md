@@ -31,7 +31,7 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,bootstrap" />
   </a>
 </div>
 <div align="center">
@@ -41,7 +41,7 @@
 </div>
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=,vscode,react,html,css,js,ts,bootstrap,materialui,androidstudio,wordpress,ae,arduino,linux" />
+    <img src="https://skillicons.dev/icons?i=,,react,html,css,js,ts,bootstrap,materialui,androidstudio,wordpress,ae,arduino,linux" />
   </a>
 </div>
 <details close="true">
