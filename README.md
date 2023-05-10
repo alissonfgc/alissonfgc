@@ -10,7 +10,7 @@
 </div>
 
 <div style="display: inline_block">
-    <h2>Português 🇧🇷</h2>
+    <h2>English  🇺🇸</h2>
     <p> 👀 I’m interested in Full Stack Python Development; 🌱 I’m currently learning python and JavaScript; 💼 [My portfolio](https://alissonfgc.xyz/). </p>
     <h2>Português 🇧🇷</h2>
     <p> 👀 Estou interessado em Desenvolvimento Full Stack Python; 🌱 Atualmente eu estou estudando Python e JavaScript; 💼 [Meu portifólio](https://alissonfgc.xyz/). </p>
@@ -23,7 +23,7 @@
 <br/>
 <br/>
 
-English  🇺🇸
+
 --
 - 👀 I’m interested in Full Stack Python Development.
 - 🌱 .
