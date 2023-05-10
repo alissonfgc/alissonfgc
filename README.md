@@ -11,9 +11,9 @@
 
 <div style="display: inline_block">
     <h2>Português 🇧🇷</h2>
-    <p>
-        👀 Estou interessado em Desenvolvimento Full Stack Python; 🌱 Atualmente eu estou estudando Python e JavaScript; 💼 [Meu portifólio](https://alissonfgc.xyz/).
-    </p>
+    <p> 👀 I’m interested in Full Stack Python Development; 🌱 I’m currently learning python and JavaScript; 💼 [My portfolio](https://alissonfgc.xyz/). </p>
+    <h2>Português 🇧🇷</h2>
+    <p> 👀 Estou interessado em Desenvolvimento Full Stack Python; 🌱 Atualmente eu estou estudando Python e JavaScript; 💼 [Meu portifólio](https://alissonfgc.xyz/). </p>
     <img align="right" alt="Aliss-pic" style="border-radius:50px;" height="150" src="https://cdn.discordapp.com/attachments/1094744443355148360/1105655868936167424/alissonfgc_art.png">
 </div>
 
@@ -23,18 +23,11 @@
 <br/>
 <br/>
 
- Português 🇧🇷 
---
-- 👀 Estou interessado em Desenvolvimento Full Stack Python.
-- 🌱 Atualmente eu estou estudando Python e JavaScript.
-- 💼 [Meu portifólio](https://alissonfgc.xyz/).
-
 English  🇺🇸
 --
-- ##👋 Hi, I’m **@alissonfgc**
 - 👀 I’m interested in Full Stack Python Development.
-- 🌱 I’m currently learning python and JavaScript.
-- 💼 [My portfolio](https://alissonfgc.xyz/).
+- 🌱 .
+- 💼 [](https://alissonfgc.xyz/).
 
 <br/>
 <br/>
