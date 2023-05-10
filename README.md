@@ -13,8 +13,8 @@
 <br/>
 <br/>
  
-<div align="center" >
- <div width="50%" align="left" >
+<div align="center" width="100%">
+ <div width="50%" align="center" >
   <p>
     Português 🇧🇷 
 ---
@@ -23,7 +23,7 @@
 - 💼 [Meu portifólio](https://alissonfgc.xyz/).
   </p>
  </div>
- <div width="50%" align="rigth" >
+ <div width="50%" align="center">
     <p>
 English  🇺🇸
 ---
