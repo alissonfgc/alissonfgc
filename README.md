@@ -36,12 +36,15 @@
 </div>
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=php,mysql,git,github,python,django" />
+    <img src="https://skillicons.dev/icons?i=php,mysql,git,github,python" />
   </a>
 </div>
+
+,arduino,androidstudio,wordpress,
+
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=,,react,html,css,js,ts,bootstrap,materialui,androidstudio,wordpress,ae,arduino,linux" />
+    <img src="https://skillicons.dev/icons?i=django,react,ts,ae,linux" />
   </a>
 </div>
 <details close="true">
