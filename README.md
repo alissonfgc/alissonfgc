@@ -42,6 +42,8 @@ English  🇺🇸
     <img src="https://skillicons.dev/icons?i=python,django,mysql,sqlite,c,cpp,cs,java,github,wordpress,ae,ps,pr" />
   </a>
 </div>
+##
+<br/>
 
 <div align="center">
   <br>
