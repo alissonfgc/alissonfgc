@@ -9,7 +9,7 @@
  </h1>
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
     <img align="left" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="right" alt="Aliss-pic" style="border-radius:50px;" height="150" src="https://cdn.discordapp.com/attachments/1094744443355148360/1105655868936167424/alissonfgc_art.png">
 </div>
