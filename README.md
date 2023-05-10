@@ -13,10 +13,31 @@
 <br/>
 <br/>
  
+<div align="center" >
+ <div width="50%" align="left" >
+  <p>
+    Português 🇧🇷 
+---
+- 👀 Estou interessado em Desenvolvimento Full Stack Python.
+- 🌱 Atualmente eu estou estudando Python e JavaScript.
+- 💼 [Meu portifólio](https://alissonfgc.xyz/).
+  </p>
+ </div>
+ <div width="50%" align="rigth" >
+    <p>
+English  🇺🇸
+---
+- ##👋 Hi, I’m **@alissonfgc**
+- 👀 I’m interested in Full Stack Python Development.
+- 🌱 I’m currently learning python and JavaScript.
+- 💼 [My portfolio](https://alissonfgc.xyz/).
+  </p>
+ </div>
+</div>
+ 
  
  Português 🇧🇷 
 ---
-- ##👋 Olá, Eu sou **@alissonfgc**
 - 👀 Estou interessado em Desenvolvimento Full Stack Python.
 - 🌱 Atualmente eu estou estudando Python e JavaScript.
 - 💼 [Meu portifólio](https://alissonfgc.xyz/).
