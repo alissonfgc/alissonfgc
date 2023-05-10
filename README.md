@@ -14,7 +14,7 @@
 </div>
 
 
-- ##English  🇺🇸
+- **English**  🇺🇸
 - 👀 I’m interested in Full Stack Python Development;
 - 🌱 🌱 I’m currently learning python and JavaScript;
 - 💼 [My portfolio](https://alissonfgc.xyz/).
