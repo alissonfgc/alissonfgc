@@ -31,12 +31,17 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,vscode,react,html,css,js,ts,bootstrap,materialui,androidstudio,arduino,bash,linux" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,html,css,js,bootstrap" />
   </a>
 </div>
 <div align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=python,django,mysql,c,cpp,cs,github,wordpress,ae" />
+  </a>
+</div>
+<div align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=git,vscode,react,html,css,js,ts,bootstrap,materialui,androidstudio,arduino,linux" />
   </a>
 </div>
 <details close="true">
