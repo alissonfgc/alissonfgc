@@ -45,6 +45,7 @@ English  🇺🇸
 </div>
 <details close="true">
     <summary><b>:gear: &nbsp;Git statistics</b></summary>
+ <br/>
     <div align="center">
         <a href="#">
             <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alissonfgc&show_icons=true&theme=tokyonight&bg_color=404040&border_radius=15&border_color=2ba3d6&include_all_commits=true&count_private=true"/>
