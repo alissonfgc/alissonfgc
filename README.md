@@ -43,9 +43,6 @@ English  🇺🇸
     <img src="https://skillicons.dev/icons?i=python,django,mysql,sqlite,c,cpp,cs,java,github,wordpress,ae,ps,pr" />
   </a>
 </div>
-
-<br/>
-
 <details close="true">
   <summary><b>:gear: &nbsp;Git statistics</b></summary>
 
