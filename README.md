@@ -43,6 +43,16 @@ English  🇺🇸
   </a>
 </div>
 
+<div align="center">
+  <br>
+  <a href="#">
+    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alissonfgc&show_icons=true&theme=tokyonight&bg_color=404040&border_radius=15&border_color=2ba3d6&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="#">
+    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonfgc&langs_count=6&layout=compact&theme=tokyonight&bg_color=404040&border_radius=15&border_color=2ba3d6"/>
+  </a>
+</div>
+
 <br/>
 
 <img align='right' height='160' style="margin-right:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
@@ -65,16 +75,6 @@ English  🇺🇸
 </a>
 <hr/>
 
-
-<div align="center">
-  <br>
-  <a href="#">
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alissonfgc&show_icons=true&theme=tokyonight&bg_color=404040&border_radius=15&border_color=2ba3d6&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="#">
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonfgc&langs_count=6&layout=compact&theme=tokyonight&bg_color=404040&border_radius=15&border_color=2ba3d6"/>
-  </a>
-</div>
 
 
 
