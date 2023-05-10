@@ -12,6 +12,9 @@
 <br/>
 <br/>
 
+<br/>
+<br/>
+
  Português 🇧🇷 
 ---
 - 👀 Estou interessado em Desenvolvimento Full Stack Python.
@@ -34,22 +37,26 @@ English  🇺🇸
   <a href="#">
     <img src="https://skillicons.dev/icons?i=git,vscode,react,html,css,js,ts,bootstrap,materialui,androidstudio,arduino,bash,linux" />
   </a>
-</p>
-<p align="center">
+</div>
+<div align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=python,django,mysql,sqlite,c,cpp,cs,java,github,wordpress,ae,ps,pr" />
   </a>
 </div>
+
 <br/>
 <br/>
+
 <div align="center">
-  <br>
-  <a href="#">
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alissonfgc&show_icons=true&theme=tokyonight&bg_color=404040&border_radius=15&border_color=2ba3d6&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="#">
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonfgc&langs_count=6&layout=compact&theme=tokyonight&bg_color=404040&border_radius=15&border_color=2ba3d6"/>
-  </a>
+ <br/>
+ <br/>
+ <a href="#">
+  <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alissonfgc&show_icons=true&theme=tokyonight&bg_color=404040&border_radius=15&border_color=2ba3d6&include_all_commits=true&count_private=true"/>
+ </a>
+ 
+ <a href="#">
+  <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonfgc&langs_count=6&layout=compact&theme=tokyonight&bg_color=404040&border_radius=15&border_color=2ba3d6"/>
+ </a>
 </div>
 
 <br/>
