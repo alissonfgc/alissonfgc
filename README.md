@@ -45,6 +45,17 @@
 
 <div align="center">
   <a href="#">
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,bootstrap" />
+  </a>
+</div>
+<div align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=php,mysql,git,github,python" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=django,react,ts,ae,linux" />
   </a>
 </div>
