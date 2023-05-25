@@ -44,12 +44,12 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=python,django,react,ts" />
+    <img src="https://skillicons.dev/icons?i=python,django,react,ts,docker" />
   </a>
 </div>
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=arduino,androidstudio,ae,linux" />
+    <img src="https://skillicons.dev/icons?i=arduino,androidstudio,ae,linux,ruby" />
   </a>
 </div>
 
