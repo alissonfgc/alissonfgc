@@ -15,13 +15,13 @@
 
 
 **English**  🇺🇸
-- 👀 I’m interested in Full Stack Python Development;
-- 🌱 I’m currently learning python and JavaScript;
+- 👀 I’m interested in Full Stack Development;
+- 🌱 I’m currently learning Ruby on Rails;
 - 💼 [My portfolio](https://alissonfgc.xyz/).
 
 **Português** 🇧🇷
-- 👀 Estou interessado em Desenvolvimento Full Stack Python;
-- 🌱 Atualmente eu estou estudando Python e JavaScript;
+- 👀 Estou interessado em Desenvolvimento Full Stack;
+- 🌱 Atualmente eu estou estudando Ruby on Rails;
 - 💼 [Meu portifólio](https://alissonfgc.xyz/)
 
 <br/>
