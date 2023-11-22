@@ -27,6 +27,14 @@
 <br/>
 <br/>
 
+<h2>Social Networks</h2>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/alissonfgc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/alissonfgc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:alissonfgcdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+</div>
+
 <h2>Skills</h2>
 
 <div align="center">
@@ -80,13 +88,7 @@
 <br/>
 <br/>
 
-<h2>Social Networks</h2>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/alissonfgc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/alissonfgc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:alissonfgcdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-</div>
 <br/>
 <a href="#">
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&color=2ba3d6&section=footer"/>
