@@ -16,11 +16,11 @@
 
 **English**  🇺🇸
 - 👀 I’m Full Stack Java Development;
-- 💼 [My portfolio](https://alissonfgc.xyz/).
+- 💼 [My portfolio](https://alissonfgc.com/).
 
 **Português** 🇧🇷
 - 👀 Sou Desenvolvedor Full Stack Java;
-- 💼 [Meu portifólio](https://alissonfgc.xyz/)
+- 💼 [Meu portifólio](https://alissonfgc.com/)
 
 <br/>
 <br/>
