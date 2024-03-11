@@ -15,13 +15,11 @@
 
 
 **English**  🇺🇸
-- 👀 I’m interested in Full Stack Development;
-- 🌱 I’m currently learning Java;
+- 👀 I’m Full Stack Java Development;
 - 💼 [My portfolio](https://alissonfgc.xyz/).
 
 **Português** 🇧🇷
-- 👀 Estou interessado em Desenvolvimento Full Stack;
-- 🌱 Atualmente eu estou estudando Java;
+- 👀 Sou Desenvolvedor Full Stack Java;
 - 💼 [Meu portifólio](https://alissonfgc.xyz/)
 
 <br/>
