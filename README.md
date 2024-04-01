@@ -53,12 +53,12 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=linux,,,,docker" />
+    <img src="https://skillicons.dev/icons?i=linux,,,," />
   </a>
 </div>
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=aws,,,," />
+    <img src="https://skillicons.dev/icons?i=,java,spring,docker,aws" />
   </a>
 </div>
 
