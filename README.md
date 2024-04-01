@@ -53,7 +53,7 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=,java,spring,docker,aws" />
+    <img src="https://skillicons.dev/icons?i=js,java,spring,docker,aws" />
   </a>
 </div>
 
