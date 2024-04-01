@@ -40,12 +40,12 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=,html,css,js,bootstrap" />
   </a>
 </div>
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=php,mysql,git,github,python" />
+    <img src="https://skillicons.dev/icons?i=php,mysql,git,github,linux" />
   </a>
 </div>
 
@@ -53,12 +53,12 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=python,django,react,ts,docker" />
+    <img src="https://skillicons.dev/icons?i=linux,,,,docker" />
   </a>
 </div>
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=arduino,androidstudio,ae,linux,ruby" />
+    <img src="https://skillicons.dev/icons?i=aws,,,," />
   </a>
 </div>
 
