@@ -9,9 +9,11 @@
     </h1>
 </div>
 
+<!--
 <div style="display: inline_block">
     <img align="right" alt="Aliss-pic" style="border-radius:50px;" height="150" src="https://cdn.discordapp.com/attachments/1094744443355148360/1105655868936167424/alissonfgc_art.png">
 </div>
+-->
 
 
 **English**  🇺🇸
