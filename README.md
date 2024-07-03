@@ -2,19 +2,20 @@
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&color=2ba3d6&section=header" />
 </a>
 
+<hr />
+
 <h1>
   Hi, I’m Alisson <img width="32" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
 </h1>
 
 ### I’m Full-Stack Java Developer 💻
 
-### [💼 My portfolio](https://alissonfgc.com/)
-
 > ### Social Networks
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alissonfgc/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/alissonfgc/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alissonfgcdev@gmail.com)
+>
+> [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alissonfgc/)
+> [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/alissonfgc/)
+> [![Myportfolio](https://img.shields.io/badge/%F0%9F%92%BC_My_portfolio-white?style=for-the-badge)](https://alissonfgc.com/)
+> [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alissonfgcdev@gmail.com)
 
 <br />
 <br />
@@ -54,12 +55,13 @@
 <br />
 <br />
 
-> ## Studying
+> ### Studying
 > 
 > [![Studying](https://skillicons.dev/icons?i=js,ts,react,angular,threejs,blender,vite,java,spring,docker,aws)](https://skillicons.dev)
 
 <details close="true">
     <summary><h2>About me</h2></summary>
+    <hr />
     <h3>English 🇺🇸</h3>
     <br />
     <p>
@@ -78,9 +80,8 @@
         Procuro sempre me aperfeiçoar e estudar algumas Skills necessárias para um desenvolvedor, como o entendimento do documentos de requisitos, UML, metodologias de desenvolvimento de software ágeis, entre outros, tenho muito interesse em atuar como Desenvolvedor Full Stack Java ou Desenvolvedor Back-end Java.
     </p>
     <br />
+    <hr />
 </details>
-
-##
 
 ## Top repositories
 
@@ -106,6 +107,8 @@
         <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonfgc&langs_count=6&layout=compact&theme=tokyonight&bg_color=404040&border_radius=15&border_color=2ba3d6" />
     </a>
 </div>
+
+<hr />
 
 <a href="#">
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&color=2ba3d6&section=footer" />
