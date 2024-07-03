@@ -44,7 +44,6 @@
   <a href="https://github.com/alissonfgc?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
-
 ## Skills
 
 <div align="center">
@@ -67,9 +66,25 @@
 </div>
 
 <details close="true">
-    <summary><b>:gear: &nbsp;Git statistics</b></summary>
+    <summary><h2>About me</h2></summary>
+    <h3>English 🇺🇸</h3>
     <br />
-
+    <p>
+        I'm currently studying JavaScript, Java, Spring Boot (Java Framework), React (JavaScript Framework), among other technologies. I intend to complete Oracle's Java certification by the end of this year
+    </p>
+    <p>
+        I always try to improve myself and study some skills necessary for a developer, such as understanding requirements documents, UML, agile software development methodologies, among others. I am very interested in working as a Full Stack Java Developer or Back-end Java Developer.
+    </p>
+    <br />
+    <h3>Português 🇧🇷</h3>
+    <br />
+    <p>
+        Atualmente estou estudando JavaScript, Java, Spring Boot (Framework de Java), React (Framework de JavaScript), entre outras tecnologias. Pretendo realizar a certificação Java da Oracle até o fim deste ano.
+    </p>
+    <p>
+        Procuro sempre me aperfeiçoar e estudar algumas Skills necessárias para um desenvolvedor, como o entendimento do documentos de requisitos, UML, metodologias de desenvolvimento de software ágeis, entre outros, tenho muito interesse em atuar como Desenvolvedor Full Stack Java ou Desenvolvedor Back-end Java.
+    </p>
+    <br />
 </details>
 
 
