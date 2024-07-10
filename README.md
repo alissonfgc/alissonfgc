@@ -57,7 +57,7 @@
 
 > ### Studying
 > 
-> [![Studying](https://skillicons.dev/icons?i=js,ts,react,angular,threejs,blender,vite,java,spring,docker,aws)](https://skillicons.dev)
+> [![Studying](https://skillicons.dev/icons?i=js,ts,react,angular,vite,threejs,blender,java,spring,docker,aws)](https://skillicons.dev)
 
 <details close="true">
     <summary><h2>About me</h2></summary>
